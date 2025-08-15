@@ -25,3 +25,19 @@ The newest stable download for Godot can be found on https://godotengine.org/
 Also this code is in no ways even close to being perfect and we are simply two highschool students working on it, but of course criticism is allowed and can be provided with a simple bug report.
 
 We highly encoure you to do so if you find anything noteworthy!
+
+# Credits
+A huge thank you to:
+
+- The Godot Community for providing us with a great game engine and good documentation.
+- The Totem Game Dev student team of the TU/e for providing us with the casestudy and the freedom to let us make what we thought would be a fun and engaging game.
+- ExceptRea on itch.io for making a big part of the tileset we used for our levels.
+- Lesiakower on pixabay for composing the absolute bop of this game: "Lab Vibes"
+- And lastly a huge thank you to all of our friends who helped building and playtesting the game to ensure that all the physics and levels were on par!
+
+Sincerely, Team RND:
+
+- Lead Programmer: Finn
+- Level Design: Cogi
+- Prototyping and QA: Pepijn
+- Art Direction: Philip
